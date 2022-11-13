@@ -23,6 +23,12 @@ https://www.bls.gov/data/inflation_calculator.htm
 1. Download this repo or clone `https://github.com/AdamSCohen/fortune_500_history.git`
 2. It is recommended, but not required, to create and activate a virtual environment to run the program and not affect your current settings and installations.
 3. Use pip to install required modules. The modules needed are `pandas` `numpy` and `matplotlib`, as well as Jupter Notebook.
+`pip install notebook`
+`pip install pandas`
+`pip install numpy`
+`pip install matplotlib`
+
 Alternatively, use pip to install the `requirements.txt`
+
 Usually: `pip install -r requirements.txt`
 4. Open and run the Jupyter Notebook file `main.ipynb` in your prefered code editor. Visual Studio Code was used in the production of the project. Run all cells of the notebook.
