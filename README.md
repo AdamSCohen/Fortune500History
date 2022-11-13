@@ -6,10 +6,12 @@ The purpose of this project is to study the historical trends in the Fortune 500
 Primarily, this project was used as a way to learn and practice my coding skills. As I continue my education, I hope to return to this project to take a deeper look at the data and analyze it in more complex and interesting ways.
 
  # Sources
-Fortune 500 Historial Data: 
+Fortune 500 Historial Data:
+
 https://www.kaggle.com/datasets/darinhawley/fortune-500-companies-19552021
 
-CPI Data: 
+CPI Data:
+ 
 https://www.bls.gov/data/inflation_calculator.htm
 
 # Code Louisville Project Requirements
@@ -23,12 +25,17 @@ https://www.bls.gov/data/inflation_calculator.htm
 1. Download this repo or clone `https://github.com/AdamSCohen/fortune_500_history.git`
 2. It is recommended, but not required, to create and activate a virtual environment to run the program and not affect your current settings and installations.
 3. Use pip to install required modules. The modules needed are `pandas` `numpy` and `matplotlib`, as well as Jupter Notebook.
+
 `pip install notebook`
+
 `pip install pandas`
+
 `pip install numpy`
+
 `pip install matplotlib`
 
 Alternatively, use pip to install the `requirements.txt`
 
 Usually: `pip install -r requirements.txt`
+
 4. Open and run the Jupyter Notebook file `main.ipynb` in your prefered code editor. Visual Studio Code was used in the production of the project. Run all cells of the notebook.
