@@ -1,7 +1,7 @@
 # fortune_500_history
 Project for Code Louisville Data Analytics 1 Course - History of Companies in Fortune 500
 
-The purpose of this project is to study the historical trends in the Fortune 500. The Fortune 500 is a list of United States corporation ranked based on their revenue for a given fiscal year. The list first begain in 1955, and has continued each year to the present day. Using data gathered since the list's inception, I was able to gain some insight into the history of the Fortune 500.
+The purpose of this project is to study the historical trends in the Fortune 500. The Fortune 500 is a list of United States corporations ranked based on their revenue for a given fiscal year. The list first begain in 1955, and has continued each year to the present day. Using data gathered since the list's inception, I was able to gain some insight into the history of the Fortune 500.
 
 Primarily, this project was used as a way to learn and practice my coding skills. As I continue my education, I hope to return to this project to take a deeper look at the data and analyze it in more complex and interesting ways.
 
@@ -17,8 +17,8 @@ https://www.bls.gov/data/inflation_calculator.htm
 # Code Louisville Project Requirements
 1. Read data in - I read in data from a local csv using pandas. 
 2. Manipulate and clean your data - I utilized both built-in pandas functions and lambdas to mainpulate the data.
-3. Analyze your data - I used a number of built in python and pandas functions to find in out information about the data.
-4. Visualize your data - I created multiple ploys using matplotlib.
+3. Analyze your data - I used a number of built in python and pandas functions to find out information about the data.
+4. Visualize your data - I created multiple plots using matplotlib.
 5. Interpret your data and graphical output - Since the main component is in a Jupyter notebook, I used markdown cells to explain my code throughout the project.
 
 # Running the project
